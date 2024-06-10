@@ -1,0 +1,45 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.19",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0",
+        "postcss": "^8.4.38",
+        "tailwindcss": "^3.4.3",
+        "vite": "^5.2.11"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^35.4.0",
+        "@ckeditor/ckeditor5-inspector": "^4.1.0",
+        "@ckeditor/ckeditor5-vue": "^4.0.1",
+        "@headlessui/vue": "^1.7.21",
+        "@tailwindcss/typography": "^0.5.13",
+        "@tiptap/extension-color": "^2.4.0",
+        "@tiptap/extension-highlight": "^2.3.1",
+        "@tiptap/extension-text-align": "^2.4.0",
+        "@tiptap/extension-underline": "^2.3.1",
+        "@tiptap/pm": "^2.3.1",
+        "@tiptap/starter-kit": "^2.3.1",
+        "@tiptap/vue-3": "^2.3.1",
+        "@vitejs/plugin-vue": "^5.0.4",
+        "chart.js": "^4.4.3",
+        "chartjs-adapter-date-fns": "^2.0.1",
+        "chartjs-adapter-moment": "^1.0.1",
+        "chartjs-plugin-datalabels": "^2.2.0",
+        "date-fns": "^3.6.0",
+        "flowbite": "^2.3.0",
+        "toastr": "^2.1.4",
+        "vue-calendar-heatmap": "^0.8.4",
+        "vue-chartjs": "^5.3.1",
+        "vue-material-design-icons": "^5.3.0",
+        "vue-quill-editor": "^3.0.6",
+        "vue-router": "^4.0.13",
+        "vue-tailwind-datepicker": "^1.7.3",
+        "xlsx": "^0.18.5"
+    }
+}
